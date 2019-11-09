@@ -1,3 +1,4 @@
 # Final_project
 
-We will be analyzing how certain sets of colors in social media pictures relate to how well said post is received. We will be looking at the rate of reception on these pictures. We believe the brighter the color is the better it will be received.
+In this project, we will use a regression line, using a dataset from Facebook Stocks 2012 to 2018
+the regression line will show correlation between the Stock opening VS Stock Closing.
